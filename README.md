@@ -1,7 +1,7 @@
 ## HulkSMS
 Bulk Message (SMS) sender for general purpose,security authentication (OTP) and also for use in village/remote areas where internet connectivity is terrible.
 
-#APP FUNCTION
+**APP FUNCTION**
 
 Bulk Message (SMS) sender for general purpose,security authentication (OTP) and also for use
 in village/remote areas where internet connectivity is terrible.
@@ -12,7 +12,7 @@ users in real time).Other functionalities to be added include security authentic
 recognition of phone numbers , and harnessing the Google calendar API to send SMS
 appointment reminder alerts by integrating the app with the cloud based Twilio platform.
 
-#TARGETED USERS
+**TARGETED USERS**
 
 A common question arises,why not just use whatsapp to send multiple messages?
 
@@ -32,9 +32,9 @@ normal,non-android phones too.
 3] General users, example : doctor’s appointment messages for all the patients scheduled for
 that day,invitation message for a birthday party sent to multiple people....and such.
 
-#OTHER MOTIVATIONS FOR THE APP
+**OTHER MOTIVATIONS FOR THE APP**
 
-#Security :
+**Security** :
 There is a reason why banks send OTP and transaction info. via text messages , and not
 whatsapp :
 
@@ -68,7 +68,7 @@ Banks would require access to whatapp’s application interfaces (APIs).As of no
 not released their API's,so it would not be possible to send messages to whatsapp via a
 program.
 
-#APP DEVELOPMENT PHASES
+**APP DEVELOPMENT PHASES**
 
 #Phase 1 : Send a single sms to a user.
 
