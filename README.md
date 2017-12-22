@@ -70,6 +70,8 @@ program.
 
 **APP DEVELOPMENT PHASES**
 
+(Using Agile Methodology)
+
 #Phase 1 : Send a single sms to a user.
 
 #Phase 2 : Send a single sms to multiple users via a user array.
