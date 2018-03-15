@@ -5,7 +5,8 @@ Bulk Message (SMS) sender for general purpose,security authentication (OTP) and 
 
 Bulk Message (SMS) sender for general purpose,security authentication (OTP) and also for use
 in village/remote areas where internet connectivity is terrible.
-AIM
+
+# AIM
 
 The basic idea is to create a simple app that can send a message in bulk (that is,to multiple
 users in real time).Other functionalities to be added include security authentication,image
